@@ -8,6 +8,10 @@
     <artifactId>tinylog-examples</artifactId>
     <version>1.0</version>
 
+    <properties>
+        <maven.complier.source>11</maven.complier.source>
+        <maven.complier.target>11</maven.complier.target>
+    </properties>
 
 
 </project>
