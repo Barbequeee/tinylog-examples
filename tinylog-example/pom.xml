@@ -12,7 +12,7 @@
         <maven.complier.source>11</maven.complier.source>
         <maven.complier.target>11</maven.complier.target>
     </properties>
-    
+
     <dependencies>
         <dependency>
             <groupId>org.tinylog</groupId>
